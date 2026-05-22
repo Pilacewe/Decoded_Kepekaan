@@ -1,0 +1,6 @@
+{
+  "name": "Decode",
+  "description": "An AI-Powered Emotional Simulation RPG",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
